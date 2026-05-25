@@ -1,0 +1,2 @@
+# -
+PenTesShield 是一个基于多Agent协作架构的渗透测试报告自动化生成平台，通过四个专业Agent（ReconAgent信息收集、VulnScannerAgent漏洞扫描、ExploitAgent验证利用、ReportGeneratorAgent报告生成）按优先级顺序协同工作，结合长链推理能力记录完整的分析决策过程，自动化完成从目标发现、漏洞识别、风险评估到报告输出的全流程，有效解决渗透测试人员手工撰写报告效率低、容易遗漏关键信息的问题，最终输出包含执行摘要、漏洞详情、PoC步骤和优先级修复建议的完整Markdown格式报告。
